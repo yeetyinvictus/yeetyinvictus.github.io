@@ -5,7 +5,7 @@
 //these> () are called parenthesis, you can call them whatever u would like
 //parenthesis are used for function calls and function parameters   
 //board
-
+//o
 var blockSize = 25;
 var rows = 20;
 var cols = 20;
